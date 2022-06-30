@@ -8,6 +8,9 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        ColorStore.getColor("Crayons Color").addColorType();
+        ColorStore.getColor("Water Color").addColorType();
+        ColorStore.getColor("Sketches").addColorType();
+        ColorStore.getColor("Water Color").addColorType();
     }
 }
