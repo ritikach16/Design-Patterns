@@ -5,36 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e192161-586e-421e-82de-fa255ed2e88e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ObjectPool_dp/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectPool_dp/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectPool_dp/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectPool_dp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectPool_dp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectPool_dp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectPool_dp/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectPool_dp/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abstractFactory/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abstractFactory/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abstractFactory/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abstractFactory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abstractFactory/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../abstractFactory/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../prototype_dp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton_dp/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton_dp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton_dp/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton_dp/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../singleton_dp/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../prototype_dp/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../prototype_dp/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstractFactory/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstractFactory/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +39,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/ritiC/IdeaProjects/Design Patterns/creational pattern/factory_dp"
   }
 }]]></component>
   <component name="RunManager">
